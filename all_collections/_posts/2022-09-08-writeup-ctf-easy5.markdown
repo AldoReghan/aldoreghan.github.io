@@ -41,7 +41,6 @@ Target : flag di folder root
 9.  Selanjutnya yang saya lakukan adalah, membuat wordlist untuk koneksi ke protokol
 ssh, dimana saya memisahkan masing username dan password untuk dijadikan
 wordlist.
-
 10. Setelah saya membuat wordlist yang saya lakukan adalah melakukan bruteforce
 menggunakan hydra, dan hasilnya adalah<br>
 <b>Username : alice <br>
@@ -49,7 +48,7 @@ Password : 4lic3</b>
 
 11. Setelah saya mendapatkan username dan password, saya melakukan akses ke ssh.
 
-12. Setelah berhasil login ke ssh saya masuk ke akses shell /bin/sh, dan hasilnya
+12.  Setelah berhasil login ke ssh saya masuk ke akses shell /bin/sh, dan hasilnya
 sebagai berikut.
 
 13. Selanjutnya saya mengetikan “sudo -l” untuk melihat akses apa saja yang bisa
