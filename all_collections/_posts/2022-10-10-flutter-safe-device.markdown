@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flutter Safe Device
+title: Flutter Deteksi Root dan Emulator
 date: 2022-10-10
 categories: ["Flutter"]
 ---
@@ -11,10 +11,12 @@ Halo pada tulisan kali ini saya ingin sharing bagaimana aplikasi yang kita buat 
    ```terminal
    flutter pub add safe_device
    ```
+   <br>
 2. Menngimport safe_device pada project kita, disini saya membuat file bernama **AuthWrapper.dart** karena di dalam file ini pengecekan dilakukan.<br><br>
    ```dart
    import 'package:safe_device/safe_device.dart';
    ```
+   <br>
 3. Membuat function bernama **checkDevice()** untuk melakukan pengecekan apakah perangkat telah diroot atau dijalankan di emulator.<br><br>
    ```dart
     checkDevice() async {
@@ -34,14 +36,17 @@ Halo pada tulisan kali ini saya ingin sharing bagaimana aplikasi yang kita buat 
         }
     }
     ```
+    <br>
     funtion yang telah dibuat selanjutnya di masukkan kedalam function **iniState()** karena function **checkDevice()** akan dijalankan terlebih dahulu <br><br>
+    
     ```dart
     @override
     void initState() {
         super.initState();
         checkDevice();
     }
-   ```
+    ```
+   <br>
 4. Selanjutnya mengimport file **AuthWrapper.dart** ke **main.dart** untuk dijalankan<br><br>
    ```dart
    void main() {
