@@ -8,7 +8,7 @@ categories: ["Flutter"]
 Halo pada tulisan kali ini saya ingin sharing bagaimana aplikasi yang kita buat menggunakan flutter dapat mendeteksi bahwa perangkan tersebut telah di root atau aplikasi kita sedang dijalankan di sebuah emulator, di dalam tulisan ini saya menggunakan sebuah package **safe_device** yang dapat dilihat di web berikut [pub.dev](https://pub.dev/packages/safe_device) <br>
 
 1. menambahkan package safe_device ke dalam project kita, disini saya menggunakan terminal, untuk mengetahui bagaimana cara menambahkan nya dapat dilihat di link yang sudah saya cantumkan. <br><br>
-   ```terminal
+   ```dart
    flutter pub add safe_device
    ```
    <br>
