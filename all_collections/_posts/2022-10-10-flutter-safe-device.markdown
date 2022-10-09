@@ -12,7 +12,7 @@ Halo pada tulisan kali ini saya ingin sharing bagaimana aplikasi yang kita buat 
    flutter pub add safe_device
    ```
    <br>
-2. Menngimport safe_device pada project kita, disini saya membuat file bernama **AuthWrapper.dart** karena di dalam file ini pengecekan dilakukan.<br><br>
+2. Mengimport safe_device pada project kita, disini saya membuat file bernama **AuthWrapper.dart** karena di dalam file ini pengecekan dilakukan.<br><br>
    ```dart
    import 'package:safe_device/safe_device.dart';
    ```
@@ -37,7 +37,8 @@ Halo pada tulisan kali ini saya ingin sharing bagaimana aplikasi yang kita buat 
     }
     ```
     <br>
-    funtion yang telah dibuat selanjutnya di masukkan kedalam function **iniState()** karena function **checkDevice()** akan dijalankan terlebih dahulu <br><br>
+
+    **checkDevice()** yang telah dibuat selanjutnya di masukkan kedalam **iniState()** karena **checkDevice()** akan dijalankan terlebih dahulu <br><br>
     
     ```dart
     @override
