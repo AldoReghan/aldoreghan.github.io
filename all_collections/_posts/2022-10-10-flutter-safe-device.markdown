@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flutter Deteksi Root dan Emulator
-date: 2022-10-10
+date: 2022-10-09
 categories: ["Flutter"]
 ---
 
