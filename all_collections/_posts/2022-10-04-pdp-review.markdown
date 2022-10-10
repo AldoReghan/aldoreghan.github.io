@@ -22,6 +22,6 @@ Link universitas : <br>
 [fst.umsida.ac.id](https://fst.umsida.ac.id/)<br>
 [informatika.umsida.ac.id](https://informatika.umsida.ac.id/)<br><br>
 
-Referensi : <br><br>
-[https://web.kominfo.go.id/sites/default/files/users/4752/Rancangan%20UU%20PDP%20Final%20%28Setneg%20061219%29.pdf](https://web.kominfo.go.id/sites/default/files/users/4752/Rancangan%20UU%20PDP%20Final%20%28Setneg%20061219%29.pdf)<br>
-[https://www.dpr.go.id/dokakd/dokumen/RJ5-20200305-121009-3116.pdf](https://www.dpr.go.id/dokakd/dokumen/RJ5-20200305-121009-3116.pdf)
+Referensi : <br>
+[https://web.kominfo.go.id](https://web.kominfo.go.id/sites/default/files/users/4752/Rancangan%20UU%20PDP%20Final%20%28Setneg%20061219%29.pdf)<br>
+[https://www.dpr.go.id](https://www.dpr.go.id/dokakd/dokumen/RJ5-20200305-121009-3116.pdf)
