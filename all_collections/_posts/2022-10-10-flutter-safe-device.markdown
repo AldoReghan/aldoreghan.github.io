@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Flutter Deteksi Root dan Emulator
-date: 2022-10-09
-categories: ["Flutter"]
+date: 2022-10-10
+categories: ["Flutter","Mobile"]
 ---
 
 Halo pada tulisan kali ini saya ingin sharing bagaimana aplikasi yang kita buat menggunakan flutter dapat mendeteksi bahwa perangkan tersebut telah di root atau aplikasi kita sedang dijalankan di sebuah emulator, di dalam tulisan ini saya menggunakan sebuah package **safe_device** yang dapat dilihat di web berikut [pub.dev](https://pub.dev/packages/safe_device) <br>
