@@ -5,7 +5,7 @@ date: 2022-12-12
 categories: ["Pentest","Mobile"]
 ---
 
-Pada kesempatan kali ini saya akan mencoba menganalisis sebuah aplikasi yang digunakan untuk modus penipuan,  saya mendapatkan aplikasi ini dari teman saya mas [**Nikko Enggaliano**](https://nikkoenggaliano.my.id) terima kasih telah memberikan saya kesempatan untuk menganalisis aplikasi ini hehehe,
+Pada kesempatan kali ini saya akan mencoba menganalisis sebuah aplikasi yang digunakan untuk modus penipuan,  saya mendapatkan aplikasi ini dari teman saya mas [Nikko Enggaliano](https://nikkoenggaliano.my.id) terima kasih telah memberikan saya kesempatan untuk menganalisis aplikasi ini hehehe,
 
 pertama saya melakukan reverse engineer terhadap aplikasi ini untuk mendapatkan class, library serta alur dari aplikasi itu sendiri, hasil dari reverse engineer tersebut saya mendapatkan sususan folder sebagai berikut <br><br> ![1](/assets/basepenipu/satu.png) <br><br>
 
