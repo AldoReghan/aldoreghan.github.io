@@ -7,10 +7,10 @@ categories: ["Pentest","Mobile"]
 
 Pada kesempatan kali ini saya akan mencoba menganalisis sebuah aplikasi yang digunakan untuk modus penipuan,  saya mendapatkan aplikasi ini dari teman saya mas **Nikko Enggaliano** terima kasih telah memberikan saya kesempatan untuk menganalisis aplikasi ini hehehe,
 
-pertama saya melakukan reverse engineer terhadap aplikasi ini untuk mendapatkan class, library serta alur dari aplikasi itu sendiri, hasil dari reverse engineer tersebut saya mendapatkan sususan folder sebagai berikut <br><br>  ![01](/assets/basepenipu/1.png?raw=true) <br><br>
+pertama saya melakukan reverse engineer terhadap aplikasi ini untuk mendapatkan class, library serta alur dari aplikasi itu sendiri, hasil dari reverse engineer tersebut saya mendapatkan sususan folder sebagai berikut <br><br> ![1](/assets/basepenipu/satu.png) <br><br>
 
 Selanjutnya saya mendapatkan **AndroidManifest.xml** untuk saya cari permission yang diterapkan dan activity pertama yang dijalankan <br><br>
-![02](/assets/basepenipu/2.png?raw=true) <br><br>
+![2](/assets/basepenipu/2.png?raw=true) <br><br>
 
 hasil analisis dari file AndroidManifest.xml menunjukan bahwa aplikasi akan meminta request permission untuk mendapatkan sms. <br>
 
