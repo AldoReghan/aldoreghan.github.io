@@ -2,7 +2,7 @@
 layout: post
 title: Notifikasi OneSignal menggunakan Flutter & ExpressJs
 date: 2022-12-20
-categories: ["ExpressJs","Mobile","Flutter"]
+categories: ["ExpressJS","Mobile","Flutter"]
 ---
 
 Assalamualaikum Wr Wb, halo pembaca pada tulisan kali ini saya akan membagikan hasil belajar saya bagaimana cara mengimplementasikan notifikasi di Flutter + ExpressJS dengan menggunakan OneSignal.
